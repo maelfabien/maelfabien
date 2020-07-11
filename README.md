@@ -6,8 +6,8 @@ https://maelfabien.github.io/
 
 Outside of Data Science, my interests are:
 - Traveling 🧳 : I have been traveling to South East Asia, New Zealand, Tahiti and Chile with my girlfriend for the past 4 months. I have posted pictures of the trip in the Travel section. 
-- Sports 🚴‍♂️: Hiking in Switzerland, running on the beach in Britanny, practicing Fitness/Crossfit. I used to play volleyball and have been Swiss national champion in Junior. I also used to (and still do sometimes) practice javelin. I won several times the Javelin Championship in Rhône-Alpes region in Junior (± 50 meters).
-- Animals 🐶🐱🐭 : I have been vegetarian for close to 4 years, love animals and support several associations.
+- Sports 🚴‍♂️: Hiking in Switzerland, running on the beach in Britanny, practicing Fitness/Crossfit. I used to play volleyball and have been Swiss national champion in Junior. I also used to (and still do sometimes) practice javelin.
+- Animals 🐶🐱🐭 : I have been vegetarian for close to 4 years, moving to a fully vegan diet, I love animals and support several associations.
 - Reading/Learning 💻: I spend most of my free time trying to learn stuffs. I try to do 1 online course per month, although I don't always manage to do so.
 - Entrepreneurship 💡: I launched a first startup project during my Master and got some money from an entrepreneurial contest in Lausanne. I was invited at the 2018 final of this contest to share my experience on stage. I won a hackathon in 2019, but did not convert it to a proper project.
 
