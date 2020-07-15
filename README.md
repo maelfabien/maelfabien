@@ -20,7 +20,7 @@ I did an internship as a Data Scientist at [Anasen](https://anasen.com/), a Y-Co
 - Speech Processing
 - A bit of data engineering, since I'd like my next professional experience to be as a Machine Learning Engineering
 
-I started this blog in September 2018 for several reasons:
+I started my blog in September 2018 for several reasons:
 - Writing helps me understand. Pictures and schemas too. I am trying to combine both in my articles.
 - I did most of my studies in English, although it's not my native language. This blog is a way to keep writing.
 - Data Science is moving fast. Reading about AI-related news could be a full-time job. I learn best by doing projects. So I post most of them here.
