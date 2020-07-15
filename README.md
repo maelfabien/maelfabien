@@ -1,4 +1,4 @@
-# Hi there ! 👌
+# Hi there ! 🤗
 
 Welcome to my GitHub. My name is Maël and I'm a Data Scientist and  Ph.D. student at Idiap research institute (EPFL) in Speech Processing 🗣, on [ROXANNE European Project](https://roxanne-euproject.org/), a project that leverages real-time analytics for combating organized crime 🤖💀. I'm also a blogger, and my blog can be accessed here:
 
